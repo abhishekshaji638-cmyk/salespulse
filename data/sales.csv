@@ -1,0 +1,121 @@
+OrderID,OrderDate,ProductName,Category,Region,Quantity,UnitPrice,UnitCost
+ORD0001,2026-10-16,Mechanical Keyboard,Accessories,South,1,2600,1750
+ORD0002,2026-11-07,Monitor,Electronics,West,6,8300,6400
+ORD0003,2026-10-15,Wireless Mouse,Accessories,North,1,550,450
+ORD0004,2026-10-15,External SSD,Storage,West,2,6700,5000
+ORD0005,2026-10-28,Router,Networking,East,3,3000,2300
+ORD0006,2026-10-07,Laptop Stand,Accessories,North,2,800,500
+ORD0007,2026-11-08,Webcam,Electronics,East,1,2200,1400
+ORD0008,2026-10-25,Wireless Mouse,Accessories,North,0,750,350
+ORD0009,2026-11-06,External SSD,Storage,South,3,6700,4900
+ORD0010,2026-10-19,Office Chair,Furniture,North,1,7600,5600
+ORD0011,2026-10-30,USB Hub,Accessories,East,1,500,250
+ORD0012,2026-10-18,Monitor,Electronics,North,3,8500,6500
+ORD0013,2026-10-11,Router,Networking,West,6,3100,2300
+ORD0014,2026-10-21,Webcam,Electronics,North,3,2400,1400
+ORD0015,2026-10-18,USB Hub,Accessories,North,1,500,350
+ORD0016,2026-10-14,USB Hub,Accessories,West,5,700,250
+ORD0017,2026-10-17,Webcam,Electronics,South,6,2200,1400
+ORD0018,2026-11-07,USB Hub,Accessories,West,6,600,250
+ORD0019,2026-10-09,Router,Networking,West,4,-1200,2300
+ORD0020,2026-11-10,Keyboard,Accessories,South,1,1000,700
+ORD0021,2026-10-25,Mechanical Keyboard,Accessories,West,4,2900,1650
+ORD0022,2026-11-05,Router,Networking,North,4,3300,2300
+ORD0023,2026-10-22,Mechanical Keyboard,Accessories,North,6,2600,1750
+ORD0024,2026-10-01,Laptop Stand,Accessories,East,4,800,600
+ORD0025,2026-11-10,External SSD,Storage,East,2,6600,4800
+ORD0026,2026-10-10,Mechanical Keyboard,Accessories,East,5,2900,1750
+ORD0027,2026-11-08,Monitor,Electronics,East,5,8600,6400
+ORD0028,2026-10-20,Laptop,Computers,South,1,51800,44500
+ORD0029,2026-10-06,Wireless Mouse,Accessories,West,2,850,350
+ORD0030,2026-10-31,,Accessories,South,5,1100,700
+ORD0031,2026-10-14,Laptop Stand,Accessories,South,5,1000,600
+ORD0032,2026-10-29,Office Chair,Furniture,West,3,7800,5600
+ORD0033,2026-10-22,Keyboard,Accessories,North,2,1100,600
+ORD0034,2026-10-01,Router,Networking,North,5,3100,2300
+ORD0035,2026-10-05,Office Chair,Furniture,North,6,7600,5600
+ORD0036,2026-10-18,Headphones,Electronics,West,1,1900,1100
+ORD0037,2026-10-16,USB Hub,Accessories,West,5,400,350
+ORD0038,2026-10-28,Webcam,Electronics,East,2,2000,1300
+ORD0039,2026-10-07,Webcam,Electronics,North,4,2200,1300
+ORD0040,2026-10-16,Webcam,Electronics,South,6,2200,1300
+ORD0041,2026-10-28,USB Hub,Accessories,South,5,500,250
+ORD0042,2026-10-29,Laptop Stand,Accessories,,4,800,400
+ORD0043,2026-10-06,Wireless Mouse,Accessories,South,6,850,350
+ORD0044,2026-10-14,Monitor,Electronics,West,4,8500,6600
+ORD0045,2026-10-25,Wireless Mouse,Accessories,East,2,750,350
+ORD0046,2026-10-10,Laptop,Computers,South,3,52000,44600
+ORD0047,2026-10-21,Laptop Stand,Accessories,North,2,700,400
+ORD0048,2026-10-04,Wireless Mouse,Accessories,North,5,750,450
+ORD0049,2026-10-16,Monitor,Electronics,West,1,8600,6400
+ORD0050,2026-11-09,Keyboard,Accessories,North,5,1100,600
+ORD0051,2026-10-17,Webcam,Electronics,South,6,2300,1400
+ORD0052,2026-10-17,Mechanical Keyboard,Accessories,West,6,2800,1750
+ORD0053,2026-10-30,Monitor,Electronics,East,6,8700,6500
+ORD0054,2026-10-05,Keyboard,Accessories,South,1,1200,-300
+ORD0055,2026-10-05,External SSD,Storage,South,3,6400,4900
+ORD0056,2026-11-04,Headphones,Electronics,East,3,1700,1200
+ORD0057,2026-11-05,Router,Networking,East,6,3300,2200
+ORD0058,2026-10-08,Mechanical Keyboard,Accessories,North,1,2700,1750
+ORD0059,2026-10-19,Office Chair,Furniture,South,5,7700,5600
+ORD0060,2026-11-02,Office Chair,Furniture,West,3,7700,5600
+ORD0061,2026-10-18,Laptop Stand,Accessories,North,1,700,600
+ORD0062,2026-10-11,Wireless Mouse,Accessories,West,3,650,450
+ORD0063,2026-10-08,External SSD,Storage,North,6,6500,4800
+ORD0064,2026-10-24,Office Chair,Furniture,South,2,7900,5500
+ORD0065,2026-10-24,Webcam,Electronics,North,2,2000,1400
+ORD0066,2026-10-07,Headphones,Electronics,East,2,2000,1100
+ORD0067,2026-10-16,External SSD,Storage,South,4,6600,4900
+,2026-10-22,Monitor,Electronics,West,4,8300,6500
+ORD0069,2026-10-11,Mechanical Keyboard,Accessories,North,6,2700,1750
+ORD0070,2026-10-13,Webcam,Electronics,West,1,2200,1400
+ORD0071,2026-10-02,Headphones,Electronics,South,3,1700,1100
+ORD0072,2026-10-18,Webcam,Electronics,East,3,2200,1300
+ORD0073,2026-10-02,Mechanical Keyboard,Accessories,North,5,2800,1750
+ORD0074,2026-10-03,Laptop Stand,Accessories,North,2,1000,500
+ORD0075,2026-10-28,Router,Networking,North,4,3200,2300
+ORD0076,2026-10-03,Webcam,Electronics,West,5,2100,1400
+ORD0077,2026-10-24,Wireless Mouse,Accessories,West,5,850,450
+ORD0078,2026-10-08,Keyboard,Accessories,East,6,1200,700
+ORD0079,2026-10-21,External SSD,Storage,West,3,6700,5000
+ORD0080,2026-10-13,Office Chair,Furniture,West,3,7900,5600
+ORD0081,2026-11-09,Mechanical Keyboard,Accessories,East,4,3000,1750
+ORD0082,2026-10-19,Webcam,Electronics,South,5,2000,1400
+ORD0083,2026-10-30,Webcam,Electronics,West,-2,2300,1400
+ORD0084,2026-10-11,Laptop,Computers,North,6,51900,44600
+ORD0085,2026-10-06,Laptop Stand,Accessories,South,5,1100,500
+ORD0086,2026-10-10,Mechanical Keyboard,Accessories,North,3,2700,1750
+ORD0087,2026-10-30,Wireless Mouse,Accessories,West,2,750,350
+ORD0088,2026-11-01,Mechanical Keyboard,Accessories,West,5,2700,1850
+ORD0089,2026-10-07,USB Hub,Accessories,West,2,700,150
+ORD0090,2026-10-04,USB Hub,Accessories,South,2,700,350
+ORD0091,2026-11-03,Keyboard,Accessories,East,4,1100,800
+ORD0092,2026-11-05,Laptop,Computers,West,5,52200,44600
+ORD0093,2026-10-17,Monitor,Electronics,South,6,8500,6600
+ORD0094,2026-11-10,Mechanical Keyboard,Accessories,South,3,2900,1850
+ORD0095,2026-10-16,Laptop Stand,Accessories,East,4,700,500
+ORD0096,2026-10-09,Headphones,Electronics,South,3,1900,1000
+ORD0097,2026-10-14,USB Hub,Accessories,North,4,0,250
+ORD0098,2026-10-27,Webcam,Electronics,North,4,2200,1500
+ORD0099,2026-11-06,USB Hub,Accessories,West,4,500,150
+ORD0100,2026-10-25,Laptop,Computers,West,1,52000,44500
+ORD0101,2026-11-01,External SSD,Storage,South,6,6700,4900
+ORD0102,2026-10-25,Laptop Stand,Accessories,East,4,900,400
+ORD0103,2026-10-30,Mechanical Keyboard,Accessories,South,6,2800,1750
+ORD0104,2026-11-07,Router,Networking,North,5,3000,2400
+ORD0105,2026-10-30,Keyboard,Accessories,South,6,1200,700
+ORD0106,2026-10-14,Wireless Mouse,Accessories,West,3,750,450
+ORD0107,2026-10-27,Headphones,Electronics,East,3,1800,1100
+ORD0108,2026-10-23,Keyboard,Accessories,South,4,1000,600
+ORD0109,2026-10-02,Mechanical Keyboard,Accessories,South,1,3000,0
+ORD0110,2026-10-16,USB Hub,Accessories,South,1,600,250
+ORD0111,2026-10-30,Laptop,Computers,East,6,51800,44500
+ORD0112,2026-10-11,Headphones,Electronics,East,2,1900,1000
+ORD0113,2026-11-06,Keyboard,Accessories,West,5,1000,700
+ORD0114,2026-11-07,Webcam,Electronics,South,6,2100,1300
+ORD0115,2026-11-06,Keyboard,Accessories,North,6,1200,600
+ORD0015,2026-10-05,Headphones,Electronics,East,5,1800,1100
+ORD0117,2026-10-28,Wireless Mouse,Accessories,East,4,750,350
+ORD0118,2026-10-28,Mechanical Keyboard,Accessories,South,4,3000,1750
+ORD0119,2026-11-09,Office Chair,Furniture,West,5,8000,5600
+ORD0037,2026-10-21,Laptop,Computers,South,4,52200,44500
