@@ -1,5 +1,9 @@
 import pandas as pd
+from validation import validate
 
 df = pd.read_csv("data/sales.csv")
-print(df.head())
-print(df.shape)
+valid, invalid = validate(df)
+
+print("Valid:", len(valid))
+print("Invalid:", len(invalid))
+print(invalid[["OrderID", "ProductName", "Region", "Reason"]])
